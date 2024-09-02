@@ -1,0 +1,2 @@
+09/02/24 09:20:28 AM - Utilities.Logger - INFO - Selecting product
+09/02/24 09:20:28 AM - Utilities.Logger - INFO - Clicking on element by ('xpath', "//a[contains(text(),'Some Product')]")
